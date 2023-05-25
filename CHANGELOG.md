@@ -1,9 +1,16 @@
 # Change Log
 
-All notable changes to the "vpa-theme" extension will be documented in this file.
-
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
-## [Unreleased]
+## [0.0.1] - 2023-05-25
 
 - Initial release
+
+## [0.0.2] - 2023-05-25
+
+### Changed
+
+- sideBar color (now it the same color as the editor background)
+- lineHighlightBackground color
+
+### Added
+
+- readme

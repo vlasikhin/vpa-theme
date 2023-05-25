@@ -1,8 +1,11 @@
 {
   "name": "vpa-theme",
+  "publisher": "bb173349-170a-656e-b93a-1d55304be5d6",
   "displayName": "vpa-theme",
+  "icon": "https://github.com/vlasikhin/vpa-theme/images/icon.png",
+  "repository": "https://github.com/vlasikhin/vpa-theme",
   "description": "light theme for Ruby language using all of the semantic highlighting information provided by the Ruby LSP.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.78.0"
   },
