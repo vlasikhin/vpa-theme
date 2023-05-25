@@ -14,3 +14,13 @@
 ### Added
 
 - readme
+
+## [0.0.3] - 2023-05-25
+
+### Changed
+
+- reversed line number colors
+
+### Fixed
+
+- readme typo
