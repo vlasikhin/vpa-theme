@@ -1,0 +1,21 @@
+{
+  "name": "vpa-theme",
+  "displayName": "vpa-theme",
+  "description": "light theme for Ruby language using all of the semantic highlighting information provided by the Ruby LSP.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.78.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "vpa theme",
+        "uiTheme": "vs",
+        "path": "./themes/vpa theme-color-theme.json"
+      }
+    ]
+  }
+}
