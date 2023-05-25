@@ -4,6 +4,6 @@ Light theme for Ruby language using all of the semantic highlighting information
 
 ## Installation
 
-All you have to do is install the vpa-theme extension vron VSCode marketplace.
+All you have to do is install the vpa-theme extension from VSCode marketplace.
 
 **Enjoy!**
