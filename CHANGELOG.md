@@ -24,3 +24,10 @@
 ### Fixed
 
 - readme typo
+
+## [0.0.4] - 2023-08-24
+
+### Changed
+
+- Variables color
+- Comments color

@@ -5,7 +5,7 @@
   "icon": "images/icon.png",
   "repository": "https://github.com/vlasikhin/vpa-theme",
   "description": "light theme for Ruby language using all of the semantic highlighting information provided by the Ruby LSP.",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "engines": {
     "vscode": "^1.78.0"
   },
