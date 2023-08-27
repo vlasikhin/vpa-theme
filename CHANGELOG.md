@@ -31,3 +31,21 @@
 
 - Variables color
 - Comments color
+
+## [0.0.5] - 2023-08-24
+
+### Changed
+
+- Variables color
+- Class color
+
+## [0.0.6] - 2023-08-27
+
+### Changed
+
+- best contrast for the text
+- color-palette for more readable colors
+
+### Added
+
+- Sublime Text color-scheme
